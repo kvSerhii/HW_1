@@ -1,0 +1,23 @@
+body{
+    width: 50%;
+    padding-left: 25%;
+    font-family:'Lato', sans-serif;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.headerText{
+    font-style: italic;
+    font-size: larger;
+    text-align: justify;
+}
+
+.mainText{
+    text-align: justify;
+}
